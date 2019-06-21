@@ -1,1 +1,1 @@
-# rep1
+It is an intruder detection system using raspberry pi, pi camera and PIR sensor using Python. It also sends email to the owner about the same assisted with the image of the intruder and the time of detection using SMTP protocol.
